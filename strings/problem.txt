@@ -1,0 +1,11 @@
+1. check if string is palindrome 
+2. reverse words in a sentence
+3. replace a substring with another substring
+4. find the longest word in a string
+5. check if two strings are anagrams or not (case sensitive)
+6.check how many vowels are there in a string and coutn them
+7. count number of times each character is repeated in a string
+8. remove duplicate characters from a string
+9. convert all letters to uppercase/lowercase
+10. capitalize first letter of every word in a string
+
